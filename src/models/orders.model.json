@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "meal": "Osh",
+    "restaurant": "Afsona",
+    "totalPrice": 74000,
+    "amount": "2",
+    "customer": "Pavel",
+    "address": "Yunusobod 13",
+    "phone": "+998993219793"
+  },
+  {
+    "id": 2,
+    "meal": "Norin",
+    "restaurant": "Xadra-Milliy-Taomlari",
+    "totalPrice": 83970,
+    "amount": "3",
+    "customer": "Yevgeniy",
+    "address": "Nurafshon 13/32",
+    "phone": "+998914379749"
+  },
+  {
+    "id": 3,
+    "meal": "Hamburger",
+    "restaurant": "Evos",
+    "totalPrice": 119950,
+    "amount": "5",
+    "customer": "Aziz",
+    "address": "C1",
+    "phone": "+998933925783"
+  },
+  {
+    "id": 4,
+    "meal": "Donar",
+    "restaurant": "Oq-Tepa",
+    "totalPrice": 93000,
+    "amount": "3",
+    "customer": "Farrux",
+    "address": "Bodomzor",
+    "phone": "+998977329843"
+  }
+]

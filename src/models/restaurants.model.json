@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "restaurant": "Afsona",
+    "category": "traditional",
+    "imgLink": "https://media-cdn.tripadvisor.com/media/photo-s/14/b4/54/87/imag6441-largejpg.jpg"
+  },
+  {
+    "id": 2,
+    "restaurant": "Evos",
+    "category": "fast-food",
+    "imgLink": "https://play-lh.googleusercontent.com/2owmffIC3y5PKPMcmye1Olab0qhg3hnnU8ymBlrrg4Hv5hCOQBCR2NunldYsvEzZKet6"
+  },
+  {
+    "id": 3,
+    "restaurant": "Xadra-Milliy-Taomlari",
+    "category": "traditional",
+    "imgLink": "https://yt3.ggpht.com/ytc/AKedOLQ2sY_gEd5NPMLEyTI5u4qfFaCbghviQ6lnpUCN=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 4,
+    "restaurant": "Oq-Tepa",
+    "category": "fast-food",
+    "imgLink": "https://i.ibb.co/5xNQMSM/Bot-logo.png"
+  }
+]

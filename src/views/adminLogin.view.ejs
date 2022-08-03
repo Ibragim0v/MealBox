@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="https://cdn-icons-png.flaticon.com/512/52/52102.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
+      integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>MealBox</title>
+  </head>
+  <body>
+    <div class="login__wrapper">
+      <div class="login__logo">
+        <img
+          src="https://cdn-icons-png.flaticon.com/512/52/52102.png"
+          alt="logo"
+          width="400"
+          height="400"
+          class="login__img"
+        />
+      </div>
+
+      <form
+        action="/login"
+        enctype="application/x-www-form-urlencoded"
+        method="post"
+        class="login__form"
+      >
+        <h3 class="login__text">Welcome</h3>
+        <input
+          type="text"
+          name="name"
+          class="login__name"
+          placeholder="Enter your name"
+          required
+          autocomplete="off"
+        />
+        <input
+          type="password"
+          name="password"
+          class="login__password"
+          placeholder="Enter your password"
+          required
+          autocomplete="off"
+        />
+        <button class="login__btn" type="submit">Log In</button>
+      </form>
+    </div>
+  </body>
+</html>
